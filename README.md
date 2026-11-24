@@ -14,9 +14,7 @@ I'm Abcedee Castillano Desuyo, a 4th-year BSIT student at USTP – Jasaan. I lik
 💬 Ask me about: Next.js, React Native/Expo, PostgreSQL, Supabase, CI/CD, Figma
 <h2 align="center">Tech Stack</h2> <div align="center">
 
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+N/A
 
 </div>
 <h2 align="center">Featured Projects</h2>
